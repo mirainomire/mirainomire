@@ -1,4 +1,4 @@
-<!-- Profile README for github.com/mirenomirai -->
+<!-- Profile README for github.com/mirainomire -->
 
 <div align="center">
 
@@ -69,10 +69,10 @@ I build scalable web applications with clean, maintainable, and user-focused int
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| **[Competency360](https://github.com/mirenomirai)** | Employee competency management platform | Nuxt · TypeScript · PrimeVue |
-| **[PCN System](https://github.com/mirenomirai)** | Personnel change & approval workflow | Nuxt · Laravel · REST API |
-| **[BYEBAC](https://github.com/mirenomirai/ai_agent_starter)** | AI-powered Broken Access Control detection for APIs | Python · AI Agents · Security |
-| **[OneHealth.AI;D](https://github.com/mirenomirai)** | AI clinical support for zoonotic cases | AI/ML · Web |
+| **[Competency360](https://github.com/mirainomire)** | Employee competency management platform | Nuxt · TypeScript · PrimeVue |
+| **[PCN System](https://github.com/mirainomire)** | Personnel change & approval workflow | Nuxt · Laravel · REST API |
+| **[BYEBAC](https://github.com/mirainomire/ai_agent_starter)** | AI-powered Broken Access Control detection for APIs | Python · AI Agents · Security |
+| **[OneHealth.AI;D](https://github.com/mirainomire)** | AI clinical support for zoonotic cases | AI/ML · Web |
 | **[Developer Portfolio](https://porto-topaz-eight.vercel.app/)** | Personal digital archive & portfolio | Nuxt · TypeScript · Tailwind |
 | **Edelweyss Skincare** | Full-stack skincare platform + admin dashboard | PHP · CRUD · RBAC |
 
@@ -103,8 +103,8 @@ Bilingual coding classes for children (HTML, CSS, JavaScript, Python).
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mirenomirai&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirenomirai&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mirainomire&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirainomire&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -114,7 +114,7 @@ Bilingual coding classes for children (HTML, CSS, JavaScript, Python).
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mirenomirai/mirenomirai/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+<img src="https://raw.githubusercontent.com/mirainomire/mirainomire/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 
 </div>
 
@@ -129,7 +129,7 @@ Bilingual coding classes for children (HTML, CSS, JavaScript, Python).
 [![Portfolio](https://img.shields.io/badge/Portfolio-porto--topaz--eight.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://porto-topaz-eight.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-caroline--susanto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-susanto)
 [![Email](https://img.shields.io/badge/Email-carolinessto%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carolinessto@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-mirenomirai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mirenomirai)
+[![GitHub](https://img.shields.io/badge/GitHub-mirainomire-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mirainomire)
 
 </div>
 

@@ -28,7 +28,7 @@ Short description — one or two sentences about what the project does and who i
 
 ```bash
 # Clone
-git clone https://github.com/mirenomirai/REPO_NAME.git
+git clone https://github.com/mirainomire/REPO_NAME.git
 cd REPO_NAME
 
 # Install
@@ -51,4 +51,4 @@ npm run dev
 ## Author
 
 **Caroline Susanto** — Front-End / Full-Stack Developer  
-Portfolio: [porto-topaz-eight.vercel.app](https://porto-topaz-eight.vercel.app/) · GitHub: [@mirenomirai](https://github.com/mirenomirai)
+Portfolio: [porto-topaz-eight.vercel.app](https://porto-topaz-eight.vercel.app/) · GitHub: [@mirainomire](https://github.com/mirainomire)
