@@ -119,7 +119,7 @@ Personal digital archive built with a modern web stack.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/caroline-susanto">
+<a href="https://www.linkedin.com/in/foundcarolinesusanto/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
