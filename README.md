@@ -2,33 +2,17 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Caroline+Susanto+%F0%9F%91%8B;Software+Engineer;Application+Security+%7C+AI+%2F+ML;Building+secure+and+intelligent+systems" alt="Typing SVG" />
-
-</div>
+<img src="./assets/banner.png" alt="Caroline Susanto — Front-End Developer · Nuxt · Vue · TypeScript" width="100%" />
 
 <br />
 
-```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│   CAROLINE SUSANTO                                   │
-│   Software Engineer · AppSec · AI Builder            │
-│                                                      │
-│   Vue · Nuxt · Python · Laravel · Security           │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Caroline+Susanto+%F0%9F%91%8B;Front-End+Developer;Nuxt+%7C+Vue+%7C+TypeScript;AppSec+%26+AI-powered+systems" alt="Typing SVG" />
 
-```text
-caroline@github:~$ whoami
-Software Engineer
+<br />
 
-caroline@github:~$ skills
-AppSec · Full-Stack · AI/ML Integration
+<img src="https://komarev.com/ghpvc/?username=mirainomire&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
-caroline@github:~$ focus
-Secure APIs · Intelligent automation · Clean architecture
-```
+</div>
 
 ---
 
@@ -46,6 +30,15 @@ I am a builder who loves combining threat detection, machine learning, and clean
 
 ---
 
+### Currently
+
+- 🔭 Working on enterprise web applications
+- 🌱 Exploring AI-powered healthcare solutions
+- 💼 Front-End Developer
+- 🤝 Open to freelance collaboration
+
+---
+
 ## Tech Stack
 
 <div align="center">
@@ -56,20 +49,20 @@ I am a builder who loves combining threat detection, machine learning, and clean
 
 <br />
 
-| Software Engineering | Application Security | AI / ML |
+| Frontend | Backend | Security & AI |
 | --- | --- | --- |
-| Vue · Nuxt · Next.js · TypeScript | OWASP · IDOR · BOLA · BAC | AI Agents · LLM workflows |
-| Laravel · Django · Python · PHP | Penetration testing · ISO 27001 | Model integration · Automation |
-| REST API · Git · Vercel | Secure data flow · Risk audit | Health / security use cases |
+| Vue · Nuxt · Next.js · TypeScript | Laravel · Django · Python · PHP | OWASP · BAC · IDOR · BOLA |
+| JavaScript · Tailwind CSS · PrimeVue | REST API · Oracle · MySQL | AI Agents · LLM workflows |
+| Figma · Vercel | Git · OpenAPI | ISO 27001 · Pentesting |
 
 ---
 
-## Featured Projects
+### Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/mirainomire/ai_agent_starter">
-  <img width="400" src="https://gh-card.dev/repos/mirainomire/ai_agent_starter.svg" alt="ai_agent_starter" />
+  <img width="400" src="https://gh-card.dev/repos/mirainomire/ai_agent_starter.svg" alt="BYEBAC / ai_agent_starter" />
 </a>
 <a href="https://github.com/mirainomire/gachallenge">
   <img width="400" src="https://gh-card.dev/repos/mirainomire/gachallenge.svg" alt="gachallenge" />
@@ -77,9 +70,34 @@ I am a builder who loves combining threat detection, machine learning, and clean
 
 </div>
 
-<p align="center">
-  <a href="https://porto-topaz-eight.vercel.app/">Portfolio</a> · more public repos coming soon
-</p>
+<br />
+
+🛡️ **[BYEBAC](https://github.com/mirainomire/ai_agent_starter)**  
+AI-powered authorization vulnerability testing tool.
+
+🌿 **OneHealth.AI;D**  
+Evidence-based zoonosis support for human doctors.
+
+🌐 **[Developer Portfolio](https://porto-topaz-eight.vercel.app/)**  
+Personal digital archive built with a modern web stack.
+
+---
+
+### Highlights
+
+- Built enterprise applications using Nuxt 3 and TypeScript
+- Developed AI-assisted API security testing
+- Experienced in SSO and REST API integration
+- Delivered full-stack freelance web projects
+
+---
+
+### Certifications & Achievements
+
+- Hackathon Participant — Harvard HSIL Top 40 Finalist
+- Front-End Developer — Nuxt / Vue / TypeScript
+- Cybersecurity Researcher — AppSec & BAC detection
+- Open-Source Contributor
 
 ---
 
@@ -87,10 +105,14 @@ I am a builder who loves combining threat detection, machine learning, and clean
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mirainomire&theme=github_dark" alt="GitHub Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mirainomire&theme=github_dark" alt="Top Languages" />
+<!-- Primary: github-readme-stats (may be rate-limited); fallback cards below -->
+<img src="https://github-readme-stats.vercel.app/api?username=mirainomire&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirainomire&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="165" />
+
 <br />
-<img src="https://streak-stats.demolab.com/?user=mirainomire&theme=dark&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mirainomire&theme=github_dark" alt="Stats fallback" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mirainomire&theme=github_dark" alt="Languages fallback" />
 
 </div>
 
@@ -110,15 +132,29 @@ I am a builder who loves combining threat detection, machine learning, and clean
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-porto--topaz--eight.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://porto-topaz-eight.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-caroline--susanto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-susanto)
-[![Email](https://img.shields.io/badge/Email-carolinessto%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carolinessto@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-mirainomire-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mirainomire)
+<a href="https://www.linkedin.com/in/caroline-susanto">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://porto-topaz-eight.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-28A745?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="mailto:carolinessto@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/mirainomire">
+  <img src="https://img.shields.io/badge/GitHub-mirainomire-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
 ---
 
-<p align="center">
-  <i>Secure by design · Intelligent by default · Built to ship</i>
-</p>
+```text
+caroline@github:~$ status
+Building meaningful digital experiences...
+
+caroline@github:~$ _
+```
