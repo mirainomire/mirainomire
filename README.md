@@ -98,14 +98,8 @@ Personal digital archive built with a modern web stack.
 
 <div align="center">
 
-<!-- Primary: github-readme-stats (may be rate-limited); fallback cards below -->
-<img src="https://github-readme-stats.vercel.app/api?username=mirainomire&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirainomire&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="165" />
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mirainomire&theme=github_dark" alt="Stats fallback" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mirainomire&theme=github_dark" alt="Languages fallback" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mirainomire&theme=github_dark" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mirainomire&theme=github_dark" alt="Top Languages" />
 
 </div>
 
