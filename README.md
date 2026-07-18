@@ -2,11 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.png" alt="Caroline Susanto — Front-End Developer · Nuxt · Vue · TypeScript" width="100%" />
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Caroline+Susanto+%F0%9F%91%8B;Front-End+Developer;Nuxt+%7C+Vue+%7C+TypeScript;AppSec+%26+AI-powered+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Caroline+Susanto+%F0%9F%91%8B;Software+Engineer;Application+Security+%7C+AI+%2F+ML;Nuxt+%7C+Vue+%7C+TypeScript" alt="Typing SVG" />
 
 <br />
 
@@ -74,9 +70,6 @@ I am a builder who loves combining threat detection, machine learning, and clean
 
 🛡️ **[BYEBAC](https://github.com/mirainomire/ai_agent_starter)**  
 AI-powered authorization vulnerability testing tool.
-
-🌿 **OneHealth.AI;D**  
-Evidence-based zoonosis support for human doctors.
 
 🌐 **[Developer Portfolio](https://porto-topaz-eight.vercel.app/)**  
 Personal digital archive built with a modern web stack.
