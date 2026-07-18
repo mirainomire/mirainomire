@@ -69,18 +69,16 @@ I am a builder who loves combining threat detection, machine learning, and clean
 <div align="center">
 
 <a href="https://github.com/mirainomire/ai_agent_starter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mirainomire&repo=ai_agent_starter&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="ai_agent_starter" />
+  <img width="400" src="https://gh-card.dev/repos/mirainomire/ai_agent_starter.svg" alt="ai_agent_starter" />
 </a>
-&nbsp;
 <a href="https://github.com/mirainomire/gachallenge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mirainomire&repo=gachallenge&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="gachallenge" />
+  <img width="400" src="https://gh-card.dev/repos/mirainomire/gachallenge.svg" alt="gachallenge" />
 </a>
 
 </div>
 
 <p align="center">
-  <a href="https://porto-topaz-eight.vercel.app/">Portfolio</a> ·
-  more projects coming soon
+  <a href="https://porto-topaz-eight.vercel.app/">Portfolio</a> · more public repos coming soon
 </p>
 
 ---
@@ -89,9 +87,10 @@ I am a builder who loves combining threat detection, machine learning, and clean
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mirainomire&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=1800" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirainomire&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=1800" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mirainomire&theme=github_dark" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mirainomire&theme=github_dark" alt="Top Languages" />
+<br />
+<img src="https://streak-stats.demolab.com/?user=mirainomire&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
