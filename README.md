@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Caroline+Susanto+%F0%9F%91%8B;Front-End+%2F+Full-Stack+Developer;Nuxt+%7C+Vue+%7C+TypeScript;Building+clean+and+scalable+web+applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Caroline+Susanto+%F0%9F%91%8B;Software+Engineer;Application+Security+%7C+AI+%2F+ML;Building+secure+and+intelligent+systems" alt="Typing SVG" />
 
 </div>
 
@@ -12,39 +12,37 @@
 ╭──────────────────────────────────────────────────────╮
 │                                                      │
 │   CAROLINE SUSANTO                                   │
-│   Front-End Developer · AI Builder                   │
+│   Software Engineer · AppSec · AI Builder            │
 │                                                      │
-│   Vue · Nuxt · TypeScript · Tailwind CSS             │
+│   Vue · Nuxt · Python · Laravel · Security           │
 │                                                      │
 ╰──────────────────────────────────────────────────────╯
 ```
 
 ```text
 caroline@github:~$ whoami
-Front-End / Full-Stack Developer
+Software Engineer
 
 caroline@github:~$ skills
-Vue · Nuxt · TypeScript · Tailwind CSS · Laravel · Django
+AppSec · Full-Stack · AI/ML Integration
 
 caroline@github:~$ focus
-Enterprise apps · HR systems · AI-powered tools
-
-caroline@github:~$ current_project
-Building scalable enterprise applications...
+Secure APIs · Intelligent automation · Clean architecture
 ```
 
 ---
 
 ## About Me
 
-Front-End Developer specializing in **Nuxt**, **Vue**, **TypeScript**, enterprise applications, and AI-powered projects.
+I am a Software Engineer specializing in Application Security and AI/Machine Learning Integration. I go beyond just writing functional code. I architect systems with a security-first mindset and leverage AI to automate complex problem-solving.
 
-I build scalable web applications with clean, maintainable, and user-focused interfaces — from HR dashboards and approval workflows to security research tools.
+My expertise lies at the intersection of three core domains:
 
-- Informatics Engineering graduate (UMN · GPA 3.63)
-- Front-End Developer at **Telkomsigma** (HRIS Team)
-- Experience with SSO, REST APIs, dashboards, and secure data flows
-- Based in Tangerang, Indonesia · Open to collaboration
+- **Software Engineering** — Building scalable, production-ready full-stack and backend architectures using Next.js, Vue/Nuxt, Laravel, and Python (Django). I have a proven track record of maintaining high-availability enterprise applications and deploying end-to-end features.
+- **Application Security** — Hardening REST APIs against critical vulnerabilities like IDOR, BOLA, and Broken Access Control (BAC). My experience spans from active penetration testing and risk auditing (ISO 27001) to enforcing secure data flow patterns in production environments.
+- **AI/ML Integration** — Developing intelligent models and LLM-powered workflows. Recently, I engineered an AI agent that automates API vulnerability detection, achieving an **88.1% accuracy**, **100% precision**, and a **147× speedup** over manual testing. I also architected an AI-driven health monitoring system that was recognized as a **Top 40 Finalist** at the Harvard HSIL Hackathon.
+
+I am a builder who loves combining threat detection, machine learning, and clean code to solve real-world industry challenges. Currently based in Indonesia, I am highly open to international opportunities — whether as distributed remote roles or through global relocation pathways where I can bring my hybrid expertise to a forward-thinking engineering team.
 
 ---
 
@@ -52,50 +50,38 @@ I build scalable web applications with clean, maintainable, and user-focused int
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,tailwind,laravel,django,python,php,git,github,figma" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,nextjs,tailwind,laravel,django,python,php,git,github,figma" alt="Tech Stack" />
 
 </div>
 
 <br />
 
-| Frontend | Backend | Tools & Others |
+| Software Engineering | Application Security | AI / ML |
 | --- | --- | --- |
-| Vue.js · Nuxt.js · TypeScript | Laravel · Django · PHP · CodeIgniter | Git · GitLab · REST API |
-| JavaScript · Tailwind CSS · PrimeVue | Oracle · MySQL | Figma · OpenAPI · Vercel |
+| Vue · Nuxt · Next.js · TypeScript | OWASP · IDOR · BOLA · BAC | AI Agents · LLM workflows |
+| Laravel · Django · Python · PHP | Penetration testing · ISO 27001 | Model integration · Automation |
+| REST API · Git · Vercel | Secure data flow · Risk audit | Health / security use cases |
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| **[Competency360](https://github.com/mirainomire)** | Employee competency management platform | Nuxt · TypeScript · PrimeVue |
-| **[PCN System](https://github.com/mirainomire)** | Personnel change & approval workflow | Nuxt · Laravel · REST API |
-| **[BYEBAC](https://github.com/mirainomire/ai_agent_starter)** | AI-powered Broken Access Control detection for APIs | Python · AI Agents · Security |
-| **[OneHealth.AI;D](https://github.com/mirainomire)** | AI clinical support for zoonotic cases | AI/ML · Web |
-| **[Developer Portfolio](https://porto-topaz-eight.vercel.app/)** | Personal digital archive & portfolio | Nuxt · TypeScript · Tailwind |
-| **Edelweyss Skincare** | Full-stack skincare platform + admin dashboard | PHP · CRUD · RBAC |
+<div align="center">
 
-> Tip: Replace the project links above once each repo is public and renamed (e.g. `byebac`, `competency360-frontend`).
+<a href="https://github.com/mirainomire/ai_agent_starter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mirainomire&repo=ai_agent_starter&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="ai_agent_starter" />
+</a>
+&nbsp;
+<a href="https://github.com/mirainomire/gachallenge">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mirainomire&repo=gachallenge&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="gachallenge" />
+</a>
 
----
+</div>
 
-## Experience
-
-**Front-End Developer — HRIS Team** · PT. Sigma Cipta Caraka (Telkomsigma) · *Jan 2026 – Present*  
-Owns and maintains internal employee applications (Nuxt 2/3, Laravel, CodeIgniter). Focus on validation, authentication, access control, and collaboration with QA/backend.
-
-**Backend Developer Intern — HRIS Team** · Telkomsigma · *Jul 2025 – Dec 2025*  
-Built 56+ Django API endpoints over Oracle — Employee Management, Auth, and Internal Services with OpenAPI docs.
-
-**IT Security Intern** · Astra Credit Companies · *Feb 2025 – Jun 2025*  
-Compliance (CIS, NIST, ISO 27001), vulnerability analysis, and simple pentesting with Burp Suite & EDR tools.
-
-**Freelance Full-Stack Developer** · *Apr 2026 – Present*  
-Profile sites, business platforms, admin dashboards, and production deployments for clients.
-
-**Coding Teacher** · Timedoor Academy · *Part-time*  
-Bilingual coding classes for children (HTML, CSS, JavaScript, Python).
+<p align="center">
+  <a href="https://porto-topaz-eight.vercel.app/">Portfolio</a> ·
+  more projects coming soon
+</p>
 
 ---
 
@@ -103,8 +89,9 @@ Bilingual coding classes for children (HTML, CSS, JavaScript, Python).
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mirainomire&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirainomire&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=mirainomire&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=1800" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirainomire&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=1800" alt="Top Languages" />
 
 </div>
 
@@ -117,8 +104,6 @@ Bilingual coding classes for children (HTML, CSS, JavaScript, Python).
 <img src="https://raw.githubusercontent.com/mirainomire/mirainomire/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 
 </div>
-
-<p align="center"><i>Snake animation appears after the GitHub Action runs (see <code>.github/workflows/snake.yml</code>).</i></p>
 
 ---
 
@@ -136,5 +121,5 @@ Bilingual coding classes for children (HTML, CSS, JavaScript, Python).
 ---
 
 <p align="center">
-  <i>Building clean interfaces · Securing what I build · Learning in public</i>
+  <i>Secure by design · Intelligent by default · Built to ship</i>
 </p>
